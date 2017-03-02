@@ -1,0 +1,5 @@
+# Elm Chat
+
+## License
+
+MIT
